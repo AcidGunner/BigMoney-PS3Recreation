@@ -1,0 +1,8 @@
+build
+*.bat
+*.self
+*.elf
+*.pkg
+*.sh
+tools/Board Converter/*.txt
+tools/Board Converter/*.png
